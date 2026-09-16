@@ -1,0 +1,8 @@
+{
+  "name": "Remix KOBROX | Luxury Cigar Accessories",
+  "description": "Shopify Prestige style luxury brand showcase, product atelier, and Amazon conversion platform for KOBROX premium cigar accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
